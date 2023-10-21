@@ -10,6 +10,7 @@
 }
 .summary-container{
     border: 1px solid gray;
+    background-color: #FFE0B3;
 }
 @media screen and (max-width: 1024px) {
     .shop-container{
